@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 Jun 2022 09:22:22 at https://creazione.avanzare.co/reframe/demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://creazione.avanzare.co/reframe/demo/index.html -O1 "C:\Users\amakahhal\Desktop\WebSite\GraduationWebSite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:22:34	Warning: 	File not parsed, looks like binary: https://creazione.avanzare.co/reframe/demo/assets/fonts/themify.woff
+09:22:34	Warning: 	File not parsed, looks like binary: https://creazione.avanzare.co/reframe/demo/assets/fonts/themify.ttf
+09:22:35	Warning: 	File not parsed, looks like binary: https://creazione.avanzare.co/reframe/demo/assets/fonts/et-line.woff
+09:22:35	Warning: 	File not parsed, looks like binary: https://creazione.avanzare.co/reframe/demo/assets/fonts/et-line.ttf
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 43 links scanned, 42 files written (4739269 bytes overall) [4751797 bytes received at 365522 bytes/sec], 10.7 requests per connection
+(No errors, 4 warnings, 0 messages)
