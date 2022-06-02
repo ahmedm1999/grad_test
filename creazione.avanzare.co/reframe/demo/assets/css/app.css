@@ -3411,7 +3411,7 @@ _:-ms-fullscreen,
 .left-content .inner-content {
   position: relative;
   width: 26vw;
-  height: 32vw;
+  height: 34vw;
   -webkit-transform: rotateY(5deg);
   transform: rotateY(5deg);
 }
@@ -3432,7 +3432,7 @@ _:-ms-fullscreen,
   width: 100%;
   left: 0;
   top: 0;
-  background-image: url('https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg') !important;
+  background-image: url('../../../../../imgs/RMI_2106.JPG') !important;
 }
 .left-content .inner-content canvas {
   position: absolute;
@@ -4449,6 +4449,7 @@ _:-ms-fullscreen,
 .work-grid .item {
   position: relative;
   padding-bottom: 46%;
+  height: 90px;
   display: block;
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
