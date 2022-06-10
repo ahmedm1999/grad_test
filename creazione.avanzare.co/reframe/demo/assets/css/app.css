@@ -3432,7 +3432,7 @@ _:-ms-fullscreen,
   width: 100%;
   left: 0;
   top: 0;
-  background-image: url('/creazione.avanzare.co/reframe/demo/assets/images/RMI_2106.JPG') !important;
+  background-image: url('../images/RMI_2106.JPG') !important;
 }
 .left-content .inner-content canvas {
   position: absolute;
